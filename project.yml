@@ -1,0 +1,7 @@
+packages:
+  - name: route
+    actions:
+      - name: install-extension
+        runtime: 'nodejs:default'
+      - name: uninstall-extension
+        runtime: 'nodejs:default'

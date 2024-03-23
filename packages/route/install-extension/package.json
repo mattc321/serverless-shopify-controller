@@ -1,0 +1,9 @@
+{
+  "name": "install-extension",
+  "version": "1.0.0",
+  "description": "Just playing around",
+  "main": "install-extension.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}

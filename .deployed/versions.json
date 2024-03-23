@@ -1,0 +1,17 @@
+[
+  {
+    "apihost": "https://faas-sfo3-7872a1dd.doserverless.co",
+    "namespace": "fn-c19014e6-b5ba-4a49-b023-2cb9c29ee787",
+    "packageVersions": {},
+    "actionVersions": {
+      "route/install-extension": {
+        "digest": "14afeb1a4eff3c0582e6c5df863791c3674935226cf536631e84bf1729b8ce09",
+        "version": "0.0.1"
+      },
+      "route/uninstall-extension": {
+        "digest": "503c0103e5bb937764225f57ced4f065ab8c2f7a136bfc564f93361b0ab0a8b0",
+        "version": "0.0.1"
+      }
+    }
+  }
+]

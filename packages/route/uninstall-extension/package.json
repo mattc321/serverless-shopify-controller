@@ -1,0 +1,9 @@
+{
+  "name": "uninstall-extension",
+  "version": "1.0.0",
+  "description": "Just playing around",
+  "main": "uninstall-extension.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
